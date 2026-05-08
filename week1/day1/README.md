@@ -38,55 +38,120 @@ Each student's information is stored as a separate record.
 ---
 
 ## Submission Questions
+# 🚀 Day 1 – CRM Basics
 
-### 1. What issue does Salesforce help solve?
-Salesforce helps businesses organize customer information in a single platform. It reduces manual work, improves communication, tracks customer interactions, and provides better customer service.
+## 1️⃣ What is CRM?
 
-### 2. Define CRM.
-CRM stands for Customer Relationship Management. It is a system that helps organizations manage customer data, sales, leads, support services, and business relationships efficiently.
+CRM stands for **Customer Relationship Management**.  
+It is a system used by companies to manage customer data, communication, sales, and services in one place.
 
-### 3. What is an Object in Salesforce? Give an example.
-An object in Salesforce is similar to a database table used for storing information.
+CRM helps businesses:
 
-#### Example:
-An **Employee Object** can store:
-- Employee Name
-- Employee ID
-- Department
-- Email
-- Contact Number
+- Store customer information
+- Track interactions with customers
+- Improve sales and support
+- Build better customer relationships
 
-### 4. Difference Between Salesforce Admin and Salesforce Developer
-
-#### Salesforce Admin
-- Works mainly with configuration
-- Manages users and permissions
-- Creates reports, dashboards, and workflows
-- Uses no-code or low-code tools
-
-#### Salesforce Developer
-- Builds custom applications using code
-- Works with Apex, SOQL, APIs, and Lightning Web Components
-- Develops advanced automation and integrations
-- Handles complex customizations
-
-### 5. Real-World Application of Salesforce
-A **Hospital Management System** can be developed using Salesforce to manage:
-- Patient details
-- Doctor appointments
-- Medical records
-- Billing information
-- Support requests
+One of the most popular CRM platforms is **Salesforce**.
 
 ---
 
+## 2️⃣ Why Companies Use Salesforce
+
+Companies use Salesforce because it helps them:
+
+- Manage customer data efficiently
+- Track sales opportunities
+- Improve communication with customers
+- Automate business processes
+- Generate reports and analytics
+- Increase productivity and sales
+
+Salesforce is cloud-based, so employees can access data from anywhere.
+
+---
+
+## 3️⃣ Salesforce Objects
+
+### 🔹 Account
+
+An **Account** represents a company or organization.
+
+#### Example:
+- Infosys
+- Amazon
+- TCS
+
+It stores company details like:
+- Company name
+- Industry
+- Phone number
+- Address
+
+---
+
+### 🔹 Contact
+
+A **Contact** represents a person associated with an Account.
+
+#### Example:
+- Employee or customer name
+- Manager details
+
+It stores:
+- Name
+- Email
+- Phone number
+- Job title
+
+---
+
+### 🔹 Opportunity
+
+An **Opportunity** represents a potential sales deal.
+
+It helps companies track:
+- Sales stage
+- Expected revenue
+- Closing date
+- Deal status
+
+#### Example:
+A company planning to buy software from Salesforce.
+
+
+4️⃣ Real-World Mapping
+## 4️⃣ Real-World Mapping
+
+| Real World | Salesforce Object |
+|------------|------------------|
+| College | Account |
+| Student | Contact |
+| Student Admission Process | Opportunity |
+
+### Another Example
+
+| Real World | Salesforce Object |
+|------------|------------------|
+| Company | Account |
+| Employee/Customer | Contact |
+| Business Deal | Opportunity |
 ## Files Included
 - `README.md`
 - `notes.md`
 - `learnings.md`
-- `doubts.md`
-- `screenshots/`
+- `Trailhead screenshots/`
+## 📸 Screenshots
 
+### Salesforce CRM
+![Salesforce CRM](Screenshots/Salesforce-CRM.png)
+
+
+### Sales Developer Quick Look
+![Sales Developer](Screenshots/salesdeveloper-quicklook.png)
+
+### Sales Value Quick Look
+![Sales Value](Screenshots/salesvalue-quicklook.png)
 ---
 
 ## Status
