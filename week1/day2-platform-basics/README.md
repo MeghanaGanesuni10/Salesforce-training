@@ -159,6 +159,17 @@ Fields:
 - Supports automation
 
 ---
+# 📸 Screenshots
+
+## Salesforce Platform Basics Notes
+
+![Salesforce Platform Basics](screenshots/agent360-platform-dev-basics.png)
+
+---
+
+## Salesforce Platform Image
+
+![Salesforce Platform](screenshots/agent360-platformbasics.png)
 
 # 🎯 Conclusion
 
