@@ -251,7 +251,7 @@ Because Salesforce applications are built using configuration and metadata inste
 ![Roll-Up Summary Fields](Screenshots/rollup-summary-fields.png)
 
 ## 4. Schema Builder
-![Schema Builder](Screenshots/schema-builder.jpeg)
+![Schema Builder](Screenshots/Schema-builder.jpeg)
 # ✅ Conclusion
 
 This Day 3 task helped me understand:
