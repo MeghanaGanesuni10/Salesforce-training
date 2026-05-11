@@ -239,7 +239,19 @@ Blocking invalid data improves data quality and prevents future problems.
 Because Salesforce applications are built using configuration and metadata instead of heavy coding.
 
 ---
+# Screenshots
 
+## 1. Accounts Page
+![Accounts Screenshot](Screenshots/accounts.jpeg)
+
+## 2. Contracts Page
+![Contracts Screenshot](Screenshots/contracts.jpeg)
+
+## 3. Roll-Up Summary Fields
+![Roll-Up Summary Fields](Screenshots/rollup-summary-fields.png)
+
+## 4. Schema Builder
+![Schema Builder](Screenshots/schema-builder.jpeg)
 # ✅ Conclusion
 
 This Day 3 task helped me understand:
