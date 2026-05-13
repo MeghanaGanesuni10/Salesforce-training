@@ -283,7 +283,42 @@ Unnecessary coding increases maintenance complexity, debugging effort, and techn
 Programming allows developers to create customized solutions tailored to specific business requirements.
 
 ---
+# 📂 Folder Structure
 
+```text
+day5-apex-introduction/
+│
+├── README.md
+│
+└── Screenshots/
+    ├── AccountTriggerHandler.png
+    ├── ContactAndLeadSearch.png
+    ├── SOQL-queries.png
+    ├── leads.png
+    └── image.md
+```
+
+# 📸 Screenshots
+
+## Account Trigger Handler
+![Account Trigger Handler](Screenshots/AccountTriggerHandler.png)
+
+---
+
+## Contact and Lead Search
+![Contact and Lead Search](Screenshots/ContactAndLeadSearch.png)
+
+---
+
+## SOQL Queries
+![SOQL Queries](Screenshots/SOQL-queries.png)
+
+---
+
+## Leads
+![Leads](Screenshots/leads.png)
+
+---
 # ✅ Day 5 Learning Outcome
 
 By completing Day 5, I understood:
@@ -293,3 +328,8 @@ By completing Day 5, I understood:
 - How Flows and Apex work together
 - How enterprise business logic is implemented
 - How all Salesforce concepts connect in a real-world CRM system
+---
+
+# 📌 Status
+
+✅ Completed
