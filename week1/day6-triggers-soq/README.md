@@ -262,6 +262,31 @@ Poor automation design can:
 Careful planning ensures reliable and scalable systems.
 
 ---
+# Screenshots
+
+## DML Statements
+![DML Statements](Screenshots/DML-statements.png)
+
+---
+
+## SOSL Queries
+![SOSL Queries](Screenshots/SOSL-queries.png)
+
+---
+
+## Search Solution Basics
+![Search Solution Basics](Screenshots/Search-sol-basics.png)
+
+---
+
+## Apex Triggers
+![Apex Triggers](Screenshots/apexTriggers.png)
+
+---
+
+## Bulk Apex Triggers
+![Bulk Apex Triggers](Screenshots/bulkApexTriggers.png)
+
 
 # Day 6 Outcome
 
@@ -276,3 +301,8 @@ By completing Day 6, I understood:
 - Basics of search optimization in Salesforce
 
 ---
+---
+
+# Status
+
+## ✅ Completed
