@@ -304,10 +304,10 @@ Professional workflows ensure systems remain stable, secure, and maintainable.
 # 📸 Screenshots
 
 ## Apex Testing
-![Apex Testing](Screenshots/Apex-tests.png)
+![Apex Testing](Sreenshots/Apex-tests.png)
 
 ## Apex Triggers Testing
-![Apex Trigger Testing](Screenshots/Test-apex-triggers.png)
+![Apex Trigger Testing](Sreenshots/Test-apex-triggers.png)
 
 ---
 # ✍️ Revision Questions & Answers
