@@ -299,7 +299,17 @@ Structured workflows are necessary because they:
 Professional workflows ensure systems remain stable, secure, and maintainable.
 
 ---
+---
 
+# 📸 Screenshots
+
+## Apex Testing
+![Apex Testing](Screenshots/Apex-tests.png)
+
+## Apex Triggers Testing
+![Apex Trigger Testing](Screenshots/Test-apex-triggers.png)
+
+---
 # ✍️ Revision Questions & Answers
 
 ## 1. Why are tests important in enterprise systems?
